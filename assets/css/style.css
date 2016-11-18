@@ -1,4 +1,20 @@
-h1{
+header{
+	font-color: white;
+	font-size: 36px;
+	padding: 5px;
 	background-color: blue;
-	border-color: green;
+	background-margin: 10px;
+
+}
+body{
+	background-image: url("../images/steel_plate.png");
+
+}
+.container{
+	background-color: pink;
+}
+
+.col-sm-3 , .col-sm-2{
+	background-color: white;
+	margin: 10px;
 }
